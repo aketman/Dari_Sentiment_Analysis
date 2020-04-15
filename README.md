@@ -8,4 +8,6 @@ One of the most important portions is; that the project provides a Facebook page
 Inside this project, plus a directory (called Datasets)and one file which is included four Machine Learning models which are GridSearchCV, Logistic Regression, Random Forest, SGD Classification;
 
 Why this project is important?
-Besides using different Machine Learning models, it Visualizes the relationship between features. which is included ROC, Precision_Recall_Curve, and learning curve:
+Furthermore, using different Machine Learning models, it Visualizes the relationship between features. which is included ROC, Precision_Recall_Curve, and learning curve:
+
+Contact us: aketman1433@gmail.com
